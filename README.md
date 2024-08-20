@@ -1,9 +1,13 @@
-- 👋 Hi, I’m [@bjardon](https://github.com/bjardon)
-- 👀 I’m interested in backend development, cloud infrastructure and DevOps
-- 🌳 I'm experienced with NodeJS backend frameworks such as Loopback and NestJS
-- 🌱 I’m currently learning Python, Rails, Swift and React
-- 💞️ I’m looking to collaborate on open source NPM repositories
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brunojardon/)
+### 👋 Hi, I’m [@bjardon](https://github.com/bjardon)
+- 👀 Interested in **backend engineering**, **architecture design**, **cloud infrastructure**, and **DevOps**
+- 🌳 Experienced with backend **NodeJS** development (**Loopback** and **NestJS**)
+- 💪🏻 Practicing backend development with **Python (Django)** and **Ruby (RoR)**
+- 🌱 Learning mobile development for **iOS (Swift)**
+- 🏗️ Building cool **projects** on the web: [**Portfolio**](https://brunojardon.com)
+- 📨 Reach out: [**LinkedIn**](https://www.linkedin.com/in/brunojardon/)
+
+### 🛣️ My roadmap
+[![roadmap.sh](https://roadmap.sh/card/wide/66c4601234a9226f3834ae6b?variant=dark&roadmaps=nodejs%2Cpython)](https://roadmap.sh)
 
 <!---
 bjardon/bjardon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
